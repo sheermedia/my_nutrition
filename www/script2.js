@@ -121,6 +121,6 @@ var timer = setInterval(function () {
 }
  function load_home(){
 							
-							document.getElementsByTagName("body")[0].innerHTML='<object type="text/html" data="test1.htm" ></object>';
+							window.location.href="test1.htm";
 }
 
