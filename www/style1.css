@@ -1,0 +1,107 @@
+
+.text{
+font-family:segoe ui light;
+color:white;
+font-size:150%;
+}
+.text1{
+position:absolute;
+left:25%;
+margin-right:10%;
+font-size:150%;
+font-family:segoe ui light;
+color:black;
+}
+.ui-mobile label{
+font-size:150%;
+color:#4cbab4;
+}
+.ui-header .ui-title{
+font-size:200%;
+}
+table{
+font-family:segoe ui light;
+font-size:150%;
+color:grey;
+}
+.ui-panel{
+min-height:130%;
+min-width:70%;
+}
+.click{
+position:relative;
+left:30%;
+font-family:segoe ui light;
+font-size:150%;
+color:red;
+}
+.Table{
+width:70%;
+position:absolute;
+top:67%;
+left:17%;
+}
+.ui-panel-animate.ui-panel-position-left.ui-panel-display-overlay{
+-webkit-transform: translate3d(-30em,0,0);
+}
+.panelhead{
+font-family:segoe ui light;
+font-size:150%;
+}
+.ui-page-theme-a .ui-bar-inherit{
+background-color:#4cbab4;
+color:white;
+padding:2.2%;
+}
+.head{
+position:absolute;
+top:13%;
+font-family:segoe ui;
+font-size:150%;
+margin-left:10%;
+}
+.line{
+position:absolute;
+top:20%;
+left:-0.5%;
+}
+#bmi1{
+top:25%;
+}
+#sli1{
+top:35%;
+}
+#wcc1{
+top:45%;
+}
+#cc1{
+top:60%;
+}
+#bpc1{
+top:70%;
+}
+#chc1{
+top:85%;
+}
+#bmi{
+top:25%;
+}
+#sli{
+top:36%;
+}
+#wcc{
+top:48%;
+}
+#cc{
+top:61%;
+}
+#bpc{
+top:73%;
+}
+#chc{
+top:88%;
+}
+.img{
+position:absolute;
+left:10%;
+}

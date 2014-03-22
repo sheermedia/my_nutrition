@@ -64,13 +64,14 @@ function detect(){
 	}
 
 		var re=document.getElementById("result").innerHTML=Bmi;
-        me=document.getElementById("click").innerHTML="Result";
+        
 		
 }
 
 function back(){
-		var me=document.getElementById("click").innerHTML="Click";
+		var me=document.getElementById("result").innerHTML="Click Here";
 
+	
 }
 
 function slide() {
@@ -124,3 +125,6 @@ var timer = setInterval(function () {
 							window.location.href="test1.htm";
 }
 
+function Open(){
+$("#myPanel").panel("open");
+}
